@@ -1,4 +1,4 @@
-#Laboratory Activity #1: Working with Digital Signals
+# Laboratory Activity#1: Working with Digital Signals
 
 Description: Introduces digital signals using Arduino, focusing on HIGH and LOW states. Learn to control LEDs and read digital input from switches.
 
