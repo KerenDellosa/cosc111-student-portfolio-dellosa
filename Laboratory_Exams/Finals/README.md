@@ -1,11 +1,7 @@
 # Finals Laboratory Exam
 
 Description:
-
-
-Table of Contents
-1. [Files Description](#files)
-2. [Generative AI](#ai)
+This project implements an IoT Gateway where an Arduino sends data to a Python client, which bridges communication to a remote web server, enabling low-power devices to connect with cloud services.
 
 AI
 1. [Prompts used to transact with your selected Generative AI](https://docs.google.com/document/d/1Ph4f8GnvtJRS32F7EDq53SKSUNrVf3dXvfsSIAUVcg0/edit?usp=sharing)
@@ -17,4 +13,5 @@ How to Run / Notes:
 Open .ino in Arduino IDE.
 Review code logic for digital HIGH/LOW and analog readings.
 Check screenshots for expected output.
+
 
