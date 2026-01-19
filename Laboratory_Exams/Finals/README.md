@@ -1,7 +1,7 @@
 # Finals Laboratory Exam
 
 Description:
-Test students’ understanding of digital and analog signals. Includes programming Arduino to read/write digital states, read analog inputs, and control LEDs.
+
 
 Table of Contents
 1. [Files Description](#files)
@@ -17,3 +17,4 @@ How to Run / Notes:
 Open .ino in Arduino IDE.
 Review code logic for digital HIGH/LOW and analog readings.
 Check screenshots for expected output.
+
