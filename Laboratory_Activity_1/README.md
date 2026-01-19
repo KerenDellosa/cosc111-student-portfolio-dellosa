@@ -13,4 +13,5 @@ AI
 2. Model used to generate the content: ChatGPT 5
 3. [Transaction ID or the link of the conversation](https://chatgpt.com/share/68cadd1a-e038-8005-b5a5-95c230d33d28) 
 
-How to Run: Open .ino in Arduino IDE, connect components as per diagram, upload sketch, test LEDs/switches, or use Tinkercad simulation.
+How to Run:
+Open .ino in Arduino IDE, connect components as per diagram, upload sketch, test LEDs/switches, or use Tinkercad simulation.
