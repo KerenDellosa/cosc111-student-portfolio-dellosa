@@ -1,6 +1,6 @@
 # Laboratory Activity#2: Working with Analog Signals
 
-Description: Explores analog signals using Arduino. Learn to read variable voltages from sensors (e.g., potentiometers) and output PWM signals to LEDs.
+Description: Explores analog signals using Arduino. Learn to read variable voltages from sensors and output PWM signals to LEDs.
 
 Files
 1. Arduino Code Sketch File (*.ino)
@@ -14,3 +14,4 @@ AI
 3. [Transaction ID or the link of the conversation](https://chatgpt.com/share/68d38281-136c-800b-a318-e2e7e2f30f33) 
 
 How to Run: Upload .ino to Arduino IDE, connect analog components as per diagram, test sensor readings and PWM outputs, or use Tinkercad for virtual simulation.
+
