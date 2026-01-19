@@ -3,8 +3,8 @@ Laboratory Activity #1: Working with Digital Signals
 Description: Introduces digital signals using Arduino, focusing on HIGH and LOW states. Learn to control LEDs and read digital input from switches.
 
 Files
-1. [Arduino Code Sketch File](sketch_sep17d.ino)
-2. [Breadboard Diagram](Breadboard Diagram.png)
+1. Arduino Code Sketch File
+2. Breadboard Diagram
 3. [Tinkercad Diagram and Simulation](https://www.tinkercad.com/things/9vwfy596pfp-fantabulous-jaban)
 4. [Video Simulating the Breadboard and its corresponding Circuit Diagram on TinkerCad](https://drive.google.com/file/d/1P-qdPZ5ArVLBAV4516N4TUivbEDj9anx/view?usp=sharing)
 
